@@ -4,7 +4,7 @@ Log daily return of day t is  $log r_t=ln S_t - lnS_{t-1}$
 
 Assume that the expectation of log daily return = 0, then 
 
-$$VaR(10days/99)= Z_{0.1}\sqrt{10} \sigma_t $$
+$$VaR(10days/0.1)= Z_{0.1}\sqrt{10} \sigma_t $$
 
 where $Z_{0.1}$ is (1-99%) quantile for standard normal distribution N(0,1)
  is standard deviation from 21 realized log daily return (from  to ) .
